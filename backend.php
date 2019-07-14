@@ -1,6 +1,6 @@
 <?php
 // $con = mysqli_connect('localhost', 'root', '', 'photo_work');
-$con = mysqli_connect('remotemysql.com', 'fybX06nS9K', 'SfbaRpkOst', 'fybX06nS9K');
+$con = mysqli_connect('xxxxx', 'xxxxx', 'xxxxxx', 'xxxxxxx');
 if (isset($_POST['what']) && $_POST['what'] == 'check_email') {
 	$email = $_POST['email'];
 	$qry = "select * from stud where email='$email'";
