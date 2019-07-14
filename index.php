@@ -29,6 +29,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="embed.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Good+Times" rel="stylesheet" type="text/css">
+  <link rel="icon" href="ooug.png" sizes="16x16" type="image/png">
 </head>
 <body style="background-color: #000000 !important;">
 
