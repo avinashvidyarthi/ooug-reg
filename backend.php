@@ -16,7 +16,7 @@ if (isset($_POST['what']) && $_POST['what'] == 'check_email') {
 }
 
 if (isset($_POST['what']) && $_POST['what']=='insert_data') {
-	$roll = $_POST['roll'];
+	$roll = strtoupper($_POST['roll']);
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$mobile=$_POST['mobile'];
