@@ -3,7 +3,7 @@
 <head>
 
   <!-- ogp start -->
-  <meta property="og:url" content="http://ooug.epizy.com" />
+  <meta property="og:url" content="http://ooug-reg.herokuapp.com" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Odisha Oracle Users Group" />
   <meta property="og:title" content="Odisha Oracle Users Group" />
@@ -12,11 +12,11 @@
   <meta property="og:locale:alternate" content="hi_IN" />
   <!-- <meta property="fb:app_id" content="1916383908681524" /> -->
   <!-- og images -->
-  <meta property="og:image" content="http://ooug.epizy.com/ooug.png" />
+  <meta property="og:image" content="http://ooug-reg.herokuapp.com/ooug.png" />
   <!-- <meta property="og:image:secure_url" content="https://teckat.com/images/og/default.webp" /> -->
   <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="650" />
+  <meta property="og:image:width" content="240" />
+  <meta property="og:image:height" content="240" />
   <!-- og images end -->
   <!-- ogp start end -->
 
